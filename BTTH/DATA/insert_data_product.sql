@@ -1,0 +1,16 @@
+INSERT INTO Product (Name, Description, Price)
+VALUES ('Áo thun', 'Áo thun cotton, màu xanh', 150000),
+       ('Quần jean', 'Quần jean ống đứng', 350000),
+       ('Giày thể thao', 'Giày chạy bộ', 800000),
+       ('Bàn phím cơ', 'Bàn phím cơ fullsize', 1200000),
+       ('Chuột không dây', 'Chuột không dây Logitech', 300000),
+       ('Sách lập trình', 'Sách hướng dẫn lập trình Python', 250000),
+       ('Áo sơ mi trắng', 'Áo sơ mi trắng tay dài, vải cotton', 200000),
+       ('Quần tây', 'Quần tây đen, ống đứng', 400000),
+       ('Váy hoa', 'Váy hoa nhí, chất liệu voan', 300000),
+       ('Áo khoác da', 'Áo khoác da thật, màu đen', 1800000),
+       ('Kính râm', 'Kính râm phân cực', 500000),
+       ('Đồng hồ đeo tay', 'Đồng hồ thông minh', 3500000),
+       ('Túi xách', 'Túi xách da, màu nâu', 1200000),
+       ('Bàn chải đánh răng điện', 'Bàn chải đánh răng điện Oral-B', 800000),
+       ('Tai nghe Bluetooth', 'Tai nghe không dây Sony', 2000000);
